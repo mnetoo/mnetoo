@@ -21,8 +21,8 @@ I am a **Biomedical Informatics** student at **UFPR** with practical experience 
 
 ## 💼 Experience
 
-- **Frontend & Backend Development**: Creating dynamic and responsive applications.
-- **Desktop Applications**: Developing robust and user-friendly desktop applications.
+- **Frontend & Backend Development**: Creating dynamic and responsive applications. 📱
+- **Desktop Applications**: Developing robust and user-friendly desktop applications. 🖥️
 
 
 
