@@ -48,6 +48,3 @@ I am a **Biomedical Informatics** student at **UFPR** with practical experience 
 - [Institutional Email](marcusneto@ufpr.br)
 - [Persona Email](marcusnetoo@outlook.com)
 - [Site](https://mnetoo.github.io/MARCUS-NETO/)
-
-
-![snake gif](https://github.com/mnetoo/mnetoo/blob/output/github-contribution-grid-snake.svg)
