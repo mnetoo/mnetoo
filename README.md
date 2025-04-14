@@ -30,7 +30,7 @@ I am a **Biomedical Informatics** student at **UFPR** with practical experience 
   <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/rad.png" alt="RAD Studio" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
   <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/logisim.png" alt="Logisim" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/github.png" alt="Logisim" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
+  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/github.png" alt="GitHub" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
 </div>
 
 
