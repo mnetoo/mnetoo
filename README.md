@@ -7,31 +7,32 @@ I am a **Biomedical Informatics** student at **UFPR** with practical experience 
 
 ## 🚀 Skills
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/Pascal.png" alt="Pascal" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30">
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/Pascal.png" alt="Pascal" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
 </div>
 
 
 ## 🛠️ Tools
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/rad.png" alt="RAD Studio" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/logisim.png" alt="Logisim" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30">
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/rad.png" alt="RAD Studio" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/logisim.png" alt="Logisim" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.1); border-radius: 12px;">
 </div>
+
 
 
 ## 📊 GitHub Stats
