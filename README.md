@@ -49,6 +49,9 @@ I am a **Biomedical Informatics** student at **UFPR** with practical experience 
 
 - **Frontend & Backend Development**: Creating dynamic and responsive applications. 📱
 - **Desktop Applications**: Developing robust and user-friendly desktop applications. 🖥️
+- **Internship at Erasto Gaertner Hospital (Curitiba Paraná)**: Improvement in the radiotherapy scheduling system, creation of dashboards and automation of routines.
+- **Scientific Initiation**: Internship at the Center for Applied Research in Geoinformation (CEPAG - UFPR). Development of projects for use at the university and commercial use, platforms, systems, applications, etc.
+- **Scientific Initiation**: Research and study in the area of ​​vehicle license plate recognition, color, model, year and type. Image processing and convolutional neural networks.
 
 
 
@@ -61,6 +64,6 @@ I am a **Biomedical Informatics** student at **UFPR** with practical experience 
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/marcus-neto-a83319306/)
-- [Institutional Email](marcusneto@ufpr.br)
-- [Persona Email](marcusnetoo@outlook.com)
+- [Institutional Email](mailto:marcusneto@ufpr.br)
+- [Persona Email](mailto:marcusnetoo@outlook.com)
 - [Site](https://mnetoo.github.io/MARCUS-NETO/)
