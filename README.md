@@ -19,6 +19,18 @@ I am a **Biomedical Informatics** student at **UFPR** with practical experience 
 </div>
 
 
+## 🛠️ Tools
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Delphi_icon_2020.svg" alt="RAD Studio" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logisim-icon-128.png" alt="Logisim" width="30" height="30">
+</div>
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
