@@ -8,6 +8,7 @@ I am a **Biomedical Informatics** student at **UFPR** with practical experience 
 ## 🚀 Skills
 
 <div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/Pascal.png" alt="Pascal" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30">
@@ -28,6 +29,8 @@ I am a **Biomedical Informatics** student at **UFPR** with practical experience 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30">
   <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/rad.png" alt="RAD Studio" width="30" height="30">
   <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/logisim.png" alt="Logisim" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30">
 </div>
 
 
