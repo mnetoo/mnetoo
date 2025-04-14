@@ -16,7 +16,7 @@ I am a **Biomedical Informatics** student at **UFPR** with practical experience 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/java-original.svg" alt="Java" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
 </div>
 
