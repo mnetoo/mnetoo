@@ -44,6 +44,7 @@ I am a **Biomedical Informatics** student at **UFPR** with practical experience 
 </div>
 
 
+![Profile 3D](./profile-3d-contrib/profile-night-green.svg)
 
 
 ## 💼 Experience
