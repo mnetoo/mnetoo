@@ -67,4 +67,4 @@ I am a **Biomedical Informatics** student at **UFPR** with practical experience 
 - [LinkedIn](https://www.linkedin.com/in/marcus-neto-a83319306/)
 - [Institutional Email](mailto:marcusneto@ufpr.br)
 - [Persona Email](mailto:marcusnetoo@outlook.com)
-- [Site](https://mnetoo.github.io/MARCUS-NETO/)
+- [Site](https://mnetoo.github.io/marcusnetoo/)
