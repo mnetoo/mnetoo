@@ -1,70 +1,100 @@
-# Hi there, I'm Marcus Neto! 👋
+<div align="center">
 
+  # Hi there, I'm Marcus Neto! 👋
 
-I am a **Biomedical Informatics** student at **UFPR** with practical experience in **Web Development**, **Desktop Applications**, **Image Processing** and **Deep Learning**, working on both the **Backend** and **Frontend**. I have a solid background in **programming** and use **Object-Oriented Programming (OOP)** principles to create **scalable** and **well-structured** solutions.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header&text=&fontSize=90" width="100%"/>
+  
+  <p align="center">
+    I am a <b>Biomedical Informatics</b> student at <b>UFPR</b> with practical experience in <br/>
+    <b>Web Development</b>, <b>Desktop Applications</b>, <b>Image Processing</b> and <b>Deep Learning</b>.
+  </p>
+  
+  <p align="center">
+    Working on both the <b>Backend</b> and <b>Frontend</b>. I have a solid background in programming and use<br/>
+    <b>Object-Oriented Programming (OOP)</b> principles to create scalable and well-structured solutions.
+  </p>
 
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+    <a href="https://www.linkedin.com/in/marcus-neto-a83319306/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="mailto:marcusneto@ufpr.br">
+      <img src="https://img.shields.io/badge/-Institutional%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="mailto:marcusnetoo@outlook.com">
+      <img src="https://img.shields.io/badge/-Persona%20Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+    </a>
+    <a href="https://mnetoo.github.io/marcusnetoo/" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio%20-20232a?style=for-the-badge&logo=github&logoColor=61DAFB" target="_blank">
+    </a>
+    <a href="https://mnetoo.github.io/marcusnetoo/" target="_blank">
+      <img src="https://img.shields.io/badge/-Site%20-20232a?style=for-the-badge&logo=google&logoColor=61DAFB" target="_blank">
+    </a>
+  </div>
 
-
-## 🚀 Skills
-
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/Pascal.png" alt="Pascal" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
 </div>
 
+<br/>
 
-## 🛠️ Tools
+## Skills 🚀
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/rad.png" alt="RAD Studio" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/logisim.png" alt="Logisim" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
-  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/github.png" alt="GitHub" style="width:50px; height:50px; padding:5px; background-color: rgba(255,255,255,0.5); border-radius: 12px;">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/Pascal.png" alt="Pascal" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 5px;">
 </div>
 
+## Tools 🛠️
 
-
-## 📊 GitHub Stats
-![Profile 3D](./profile-3d-contrib/profile-night-green.svg)
-
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnetoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnetoo&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/rad.png" alt="RAD Studio" width="50" height="50" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/logisim.png" alt="Logisim" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/github.png" alt="GitHub" width="50" height="50" style="margin: 5px;">
 </div>
 
+<br/>
 
-## 💼 Experience
+##  GitHub Stats 📊
 
-- **Frontend & Backend Development**: Creating dynamic and responsive applications. 📱
-- **Desktop Applications**: Developing robust and user-friendly desktop applications. 🖥️
-- **Internship (Erasto Gaertner Hospital)**: Improvement in the radiotherapy scheduling system, creation of dashboards and automation of routines.
-- **Scientific Initiation (UFPR)**: Internship at the Center for Applied Research in Geoinformation (CEPAG - UFPR). Development of projects for use at the university and commercial use, platforms, systems, applications, etc.
-- **Scientific Initiation (UFPR)**: Research and study in the area of ​​vehicle license plate recognition, color, model, year and type. Image processing and convolutional neural networks.
-- **Development Internship C++ & Python (Esteio Engenharia e Aerolevantamentos S.A.)**: Software development with a focus on system functionality, automation, and performance optimization. 🧠💻
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Profile 3D" width="800" />
+</div>
+<br/>
 
+## Experience 💼
 
+<br/>
 
-## 📚 Education
+| Role / Topic | Description |
+| :--- | :--- |
+| **Development Internship C++ & Python** | *Esteio Engenharia e Aerolevantamentos S.A.* <br/> Software development with a focus on system functionality, automation, and performance optimization. 🧠💻 |
+| **Internship (Health Tech)** | *Erasto Gaertner Hospital* <br/> Improvement in the radiotherapy scheduling system, creation of dashboards and automation of routines. |
+| **Scientific Initiation** | *CEPAG - UFPR* <br/> Development of projects for university and commercial use, platforms, systems, and applications. |
+| **Scientific Initiation (AI/CV)** | *UFPR* <br/> Research in vehicle license plate recognition, color, model, year, and type. Image processing and convolutional neural networks. |
+| **Core Dev** | **Frontend & Backend Development**: Creating dynamic and responsive applications. 📱 |
+| **Desktop Dev** | **Desktop Applications**: Developing robust and user-friendly desktop applications. 🖥️ |
 
-- **Biomedical Informatics** at **Federal University of Paraná (UFPR)**
+<br/>
 
+## Education 📚 
 
+### Biomedical Informatics 🎓  
+**Federal University of Paraná (UFPR)**
 
-## 📫 How to reach me
+<br/>
 
-- [LinkedIn](https://www.linkedin.com/in/marcus-neto-a83319306/)
-- [Institutional Email](mailto:marcusneto@ufpr.br)
-- [Persona Email](mailto:marcusnetoo@outlook.com)
-- [Site](https://mnetoo.github.io/marcusnetoo/)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer&text=&fontSize=90" width="100%"/>
+</div>
