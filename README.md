@@ -1,9 +1,8 @@
 <div align="center">
-
-  # Hi there, I'm Marcus Neto! 👋
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header&text=&fontSize=90" width="100%"/>
   
+  # Hi there, I'm Marcus Neto! 👋
+
   <p align="center">
     I am a <b>Biomedical Informatics</b> student at <b>UFPR</b> with practical experience in <br/>
     <b>Web Development</b>, <b>Desktop Applications</b>, <b>Image Processing</b> and <b>Deep Learning</b>.
@@ -15,7 +14,7 @@
   </p>
 
   <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/marcus-neto-a83319306/" target="_blank">
+    <a href="https://www.linkedin.com/in/marcus-neto/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
     <a href="mailto:marcusneto@ufpr.br">
@@ -24,7 +23,7 @@
     <a href="mailto:marcusnetoo@outlook.com">
       <img src="https://img.shields.io/badge/-Persona%20Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
     </a>
-    <a href="https://mnetoo.github.io/marcusnetoo/" target="_blank">
+    <a href="https://mnetoo.github.io/marcusnetoo/#/portfolio" target="_blank">
       <img src="https://img.shields.io/badge/-Portfolio%20-20232a?style=for-the-badge&logo=github&logoColor=61DAFB" target="_blank">
     </a>
     <a href="https://mnetoo.github.io/marcusnetoo/" target="_blank">
@@ -40,6 +39,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/Pascal.png" alt="Pascal" width="50" height="50" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="C" width="50" height="50" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin: 5px;">
